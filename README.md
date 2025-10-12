@@ -1,62 +1,69 @@
 <h1 align="center">👋 Hi, I'm Amar Kumar</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | Open Source Contributor | Python • Django • FastAPI • MERN • MEAN • LAMP
+  💻 Senior Software Engineer | Open Source Contributor | Python • Django • FastAPI • MERN • MEAN • LAMP
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently contributing to **open-source projects** in Django, FastAPI, and React.
-- 🌱 Learning **AI integrations**, **DevOps**, and scalable backend design.
-- 💬 Ask me about **Python, Dango, React, Node.js, APIs, and LAMP/MERN/MEAN stacks**.
-- 🎯 Goal (2025): Build impactful open-source tools and reach ₹1L/month through OSS + Freelancing.
-- ⚡ Fun fact: I enjoy debugging as much as building.
+- 🧠 4+ years of experience building and scaling production-grade web applications.
+- 💡 Strong focus on **backend performance**, **database optimization**, and **secure API design**.
+- 🔭 Currently contributing to **open-source projects** in Django, FastAPI, and React.
+- 🤖 Exploring **AI integrations**, **DevOps pipelines**, and **automated SaaS deployments**.
+- 🎯 2025 Goal: Build impactful open-source tools & reach ₹1L/month through OSS + Freelancing.
+- ⚡ Fun fact: I debug before I even open Chrome DevTools 😄
 
 ---
 
 ### 🧩 Tech Stack
 
-**Frontend:** React, Next.js, Angular, Tailwind CSS, Redux  
-**Backend:** Node.js, Express.js, Django, FastAPI, PHP (Laravel)  
-**Database:** MongoDB, MySQL, PostgreSQL  
-**DevOps & Tools:** Docker, GitHub Actions, Vercel, Render, Postman  
-**Other:** REST APIs, WebSockets, Authentication, JWT
+<div align="center">
+
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | React, Next.js, Angular, Tailwind CSS, Redux |
+| **Backend** | Python (Django, FastAPI), Node.js (Express), PHP (Laravel) |
+| **Database** | MySQL, PostgreSQL, MongoDB, Redis |
+| **DevOps / Tools** | Docker, AWS, GitHub Actions, Vercel, Render |
+| **Other** | REST APIs, WebSockets, Authentication, JWT, ML Basics (PyTorch, scikit-learn) |
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarinfo&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarinfo&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarsde2&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarsde2&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarinfo&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarsde2&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarsde2&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+</p>
+
 ---
-
-
 
 ### 🏗️ Featured Projects
+
 | Project | Description | Tech |
 |----------|--------------|------|
-| [FastAPI Starter](https://github.com/YOUR_USERNAME/fastapi-starter) | A ready-to-use FastAPI boilerplate with JWT auth | FastAPI, PostgreSQL |
-| [React Admin Dashboard](https://github.com/YOUR_USERNAME/react-admin-dashboard) | A responsive admin dashboard template | React, Tailwind |
-| [MERN Blog API](https://github.com/YOUR_USERNAME/mern-blog-api) | REST API for blogging platform | Node.js, MongoDB |
+| [FastAPI Starter](https://github.com/amarsde2/fastapi-starter) | A FastAPI boilerplate with JWT Auth & async routes | FastAPI, PostgreSQL |
+| [React Admin Dashboard](https://github.com/amarsde2/react-admin-dashboard) | Modern responsive admin panel | React, Tailwind |
+| [MERN Blog API](https://github.com/amarsde2/mern-blog-api) | REST API for blogging platform | Node.js, MongoDB |
 
 ---
 
+### 🐍 Contribution Animation
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/amarinfo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:eramarinfo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://www.amaraiverse.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=firefox" />
-  </a>
+> Note: The animation takes a few minutes to generate after setup.
+
+```markdown
+<p align="center">
+  <img src="https://github.com/amarsde2/amarsde2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
