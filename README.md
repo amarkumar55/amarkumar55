@@ -51,11 +51,13 @@
 
 ### 🏗️ Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [FastAPI Starter](https://github.com/amarkumar55/fastapi-starter) | A FastAPI boilerplate with JWT Auth & async routes | FastAPI, PostgreSQL |
-| [React Admin Dashboard](https://github.com/amarkumar55/react-admin-dashboard) | Modern responsive admin panel | React, Tailwind |
-| [MERN Blog API](https://github.com/amarkumar55/mern-blog-api) | REST API for blogging platform | Node.js, MongoDB |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Astrology SAAS App - Private (Internal Project)](https://github.com/amarkumar55/astro-project) | A full-featured SaaS platform powered by Django, integrated with Skyfield library for astrology calculations, and an AI chat assistant. | Django, Skyfield, AI |
+| [Machine Learning Practices](https://github.com/amarkumar55/machine-learning-practices) | A collection of practical machine learning implementations and experiments covering supervised and unsupervised learning, regression, classification, clustering, and data visualization. | Python, scikit-learn, NumPy, Matplotlib, Pandas |
+| [Meta App Clone](https://github.com/amarkumar55/meta-app) | FastAPI boilerplate for social media apps with JWT authentication, async routes, and PostgreSQL integration. | FastAPI, PostgreSQL, JWT |
+| [Trello App Clone](https://github.com/amarkumar55/trelloApp) | A modern, responsive board application to manage tasks and projects efficiently. | React, Tailwind CSS, Next.js |
+| [Next Redux Starter Template](https://github.com/amarkumar55/next-redux-store-setup) | A boilerplate for blogging platforms with REST API integration and Redux state management. | Next.js, Redux, Node.js, MongoDB |
 
 ---
 
