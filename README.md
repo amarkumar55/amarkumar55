@@ -35,12 +35,12 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarsde2&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarsde2&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarkumar55&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar55&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarsde2&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar55&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -53,9 +53,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [FastAPI Starter](https://github.com/amarsde2/fastapi-starter) | A FastAPI boilerplate with JWT Auth & async routes | FastAPI, PostgreSQL |
-| [React Admin Dashboard](https://github.com/amarsde2/react-admin-dashboard) | Modern responsive admin panel | React, Tailwind |
-| [MERN Blog API](https://github.com/amarsde2/mern-blog-api) | REST API for blogging platform | Node.js, MongoDB |
+| [FastAPI Starter](https://github.com/amarkumar55/fastapi-starter) | A FastAPI boilerplate with JWT Auth & async routes | FastAPI, PostgreSQL |
+| [React Admin Dashboard](https://github.com/amarkumar55/react-admin-dashboard) | Modern responsive admin panel | React, Tailwind |
+| [MERN Blog API](https://github.com/amarkumar55/mern-blog-api) | REST API for blogging platform | Node.js, MongoDB |
 
 ---
 
@@ -65,5 +65,5 @@
 
 ```markdown
 <p align="center">
-  <img src="https://github.com/amarsde2/amarsde2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/amarkumar55/amarkumar55/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
