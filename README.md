@@ -11,7 +11,7 @@
 - 💡 Strong focus on **backend performance**, **database optimization**, and **secure API design**.
 - 🔭 Currently contributing to **open-source projects** in Django, FastAPI, and React.
 - 🤖 Exploring **AI integrations**, **DevOps pipelines**, and **automated SaaS deployments**.
-- 🎯 2025 Goal: Build impactful open-source tools & reach ₹1L/month through OSS + Freelancing.
+- 🎯 2025 Goal: Build impactful open-source tools.
 - ⚡ Fun fact: I debug before I even open Chrome DevTools 😄
 
 ---
