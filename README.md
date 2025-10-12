@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarsde2&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amarkumar55&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -61,9 +61,6 @@
 
 ### 🐍 Contribution Animation
 
-> Note: The animation takes a few minutes to generate after setup.
-
-```markdown
 <p align="center">
   <img src="https://github.com/amarkumar55/amarkumar55/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
