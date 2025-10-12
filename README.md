@@ -59,6 +59,16 @@
 
 ---
 
+### 🤝 Connect With Me
+<p align="center"> 
+<a href="https://www.linkedin.com/in/amarinfo" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> 
+<a href="mailto:eramarinfo@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /> </a> 
+<a href="https://www.amaraiverse.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox" /> </a> 
+<a href="https://leetcode.com/Amar9691" target="_blank"> <img src="https://img.shields.io/badge/LeedCode-green?style=for-the-badge&logo=firefox" /> </a> 
+</p> 
+
+---
+
 ### 🐍 Contribution Animation
 
 <p align="center">
