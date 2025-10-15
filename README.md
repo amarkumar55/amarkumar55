@@ -57,7 +57,7 @@
 | [Machine Learning Practices](https://github.com/amarkumar55/machine-learning-practices) | A collection of practical machine learning implementations and experiments covering supervised and unsupervised learning, regression, classification, clustering, and data visualization. | Python, scikit-learn, NumPy, Matplotlib, Pandas |
 | [Meta App Clone](https://github.com/amarkumar55/meta-app) | FastAPI boilerplate for social media apps with JWT authentication, async routes, and PostgreSQL integration. | FastAPI, PostgreSQL, JWT |
 | [Trello App Clone](https://github.com/amarkumar55/trelloApp) | A modern, responsive board application to manage tasks and projects efficiently. | React, Tailwind CSS, Next.js |
-| [Next Redux Starter Template](https://github.com/amarkumar55/next-redux-store-setup) | A boilerplate for blogging platforms with REST API integration and Redux state management. | Next.js, Redux, Node.js, MongoDB |
+| [Next Redux Starter Template](https://github.com/amarkumar55/next-redux-store-rtk-starter-kit) | A boilerplate for blogging platforms with REST API integration and Redux state management. | Next.js, Redux, Node.js, MongoDB |
 
 ---
 
