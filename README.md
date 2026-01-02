@@ -19,22 +19,44 @@ With **4+ years of production experience**, I specialize in designing scalable, 
 
 ---
 
-## 🧩 Core Tech Stack
+## 🧩 Core Skills & Technologies
 
-<div align="center">
+### Backend Engineering
+- Laravel, PHP  
+- Python (Django, Django REST Framework, FastAPI)  
+- REST APIs, Backend Development  
+- Authentication & Authorization (RBAC)  
+- Background Jobs & Queues  
+- Caching (Redis)  
+- Database Optimization  
 
-| Category | Tools |
-|--------|------|
-| **Backend** | PHP (Laravel), Python (FastAPI, Django) |
-| **Databases** | MySQL, PostgreSQL, Redis |
-| **Cloud & DevOps** | AWS (EC2, RDS, S3), Docker, GitHub Actions |
-| **APIs & Systems** | REST APIs, WebSockets, Auth (JWT/OAuth), Background Jobs |
-| **AI Integration** | OpenAI APIs, LLM-based workflows |
-| **Frontend (Supporting)** | React, Next.js |
+### Databases
+- MySQL  
+- PostgreSQL  
 
-</div>
+### Cloud & DevOps
+- AWS (EC2, RDS, S3)  
+- Docker  
+- CI/CD Pipelines  
+- Git & Version Control  
 
-> ⚠️ Frontend listed as **supporting skill**, not core identity (important for senior positioning)
+### System Design & Performance
+- Systems Design  
+- Scalable Architecture  
+- Data Structures & Algorithms  
+
+### AI Integration (Applied)
+- AI Integration in Backend Systems  
+- RAG-based Systems (Search, Chat, Summarization)  
+- Generative AI (LLM & API-based Integrations)  
+- Natural Language Processing (NLP)
+
+### Frontend (Supporting Skills)
+- JavaScript  
+- React.js  
+- Vue.js
+
+
 
 ---
 
